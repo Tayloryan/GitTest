@@ -7,5 +7,6 @@ public class AddTest {
 
 
 
+
     public  static  final  String word = "Test";
 }
